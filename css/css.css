@@ -1,0 +1,15 @@
+#main{
+    position: relative;
+}
+.box{
+    float: left;
+    padding: 10px 5px 10px 5px ;
+}
+.pic{
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 1px;
+}
+.pic img{
+    width: 230px;
+}
